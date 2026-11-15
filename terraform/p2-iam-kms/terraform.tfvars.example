@@ -1,0 +1,7 @@
+region = "us-east-1"
+prefix = "securex"
+suffix = "top1team"
+
+key_admin_arns = []
+
+kms_deletion_window_days = 7
